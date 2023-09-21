@@ -1,3 +1,4 @@
+// Purpose: To handle all the routes related to user
 const express=require('express');
 const router=express.Router();
 const{registerUser,loginUser,currentUser}=require('../controllers/userController');

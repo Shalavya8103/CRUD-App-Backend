@@ -1,3 +1,4 @@
+//app.js
 const express= require('express');
 const errorHandler = require('./middleware/errorHandler');
 const { connect } = require('mongoose');

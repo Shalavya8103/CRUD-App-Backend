@@ -1,3 +1,4 @@
+//Error constraints
 exports.constants={
     VALIDATION_ERROR:400,
     UNAUTHORIZED:401,
